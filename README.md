@@ -2,8 +2,8 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/GulbeEvija/Recipe-Search-API">
-    <img src="cookIcon.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/GulbeEvija/Weekly-Meal-Plan">
+    <img src="mealIcon.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Recipe App</h3>
@@ -12,7 +12,7 @@
     App built with React and API.
     <br />
     <br />
-    <a href="https://charming-cactus-2087d0.netlify.app/">View project live on Netlify</a>
+    <a href="https://cheery-bombolone-f069a5.netlify.app/">View project live on Netlify</a>
   </p>
 </div>
 
@@ -91,7 +91,7 @@ If you have any suggestions that would make this project better, please send me 
 
 Evija Gulbe - [LinkedIn](https://www.linkedin.com/in/evija-gulbe-534673240/)
 
-Project Link: [https://github.com/GulbeEvija/Recipe-Search-API](https://github.com/GulbeEvija/Recipe-Search-API)
+Project Link: [https://github.com/GulbeEvija/Weekly-Meal-Plan](https://github.com/GulbeEvija/Weekly-Meal-Plan)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -105,7 +105,7 @@ Project provided by [CanSheCode](https://edu-canshecode.thinkific.com/)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-[product-screenshot]: foodSearch.png
+[product-screenshot]: meal.png
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
 
